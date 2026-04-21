@@ -15,5 +15,5 @@ Cách chạy:
 - Lọc box nhỏ gây nhiễu
 - Ổn định cử chỉ theo nhiều frame
 - Paper = jump có cooldown
-- Rock = cúi xuống có cooldown
+- Rock = cúi xuống
 - Tự nhả phím down khi mất cử chỉ hoặc thoát
