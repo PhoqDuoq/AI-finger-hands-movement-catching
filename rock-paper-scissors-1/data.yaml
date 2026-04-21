@@ -1,0 +1,14 @@
+names:
+- Paper
+- Rock
+- Scissors
+nc: 3
+roboflow:
+  license: Private
+  project: rock-paper-scissors-sxsw-ouw36
+  url: https://universe.roboflow.com/phongdgos-workspace/rock-paper-scissors-sxsw-ouw36/dataset/1
+  version: 1
+  workspace: phongdgos-workspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images
