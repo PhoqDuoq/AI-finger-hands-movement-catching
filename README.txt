@@ -1,4 +1,4 @@
-Dino hand control - bản đã vá
+Dino hand control 
 
 File gồm:
 - play_dino.py
@@ -15,5 +15,5 @@ Cách chạy:
 - Lọc box nhỏ gây nhiễu
 - Ổn định cử chỉ theo nhiều frame
 - Paper = jump có cooldown
-- Rock = duck theo trạng thái thật
+- Rock = cúi có cooldown
 - Tự nhả phím down khi mất cử chỉ hoặc thoát
